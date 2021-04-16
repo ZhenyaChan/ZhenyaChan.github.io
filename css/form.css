@@ -1,0 +1,19 @@
+/**
+ * Styles for the add-observation.html page 
+ */
+
+ .required{
+    color: red;
+ }
+
+ #description{
+    width: 500px;
+ }
+
+ #photographer{
+    width: 500px;
+ }
+
+ #email{
+    width: 500px;
+ }
