@@ -1,4 +1,4 @@
-# Wild Life Walk
+# Wildlife Walk
 
 - Simple Web App for displaying data and location of the local animals and plants.
 
@@ -21,9 +21,9 @@
 - Form for adding new wild life observations
 
 ```sh
-NOTE: all the data about wild life is locally stored inside js/data.js file, therefore the new observations will not persist.
+NOTE: all the data about observations is locally stored inside js/data.js file, therefore the new observations will not persist.
 ```
 
 ## Web App Link
 
-This project is available via this link: [Wild Life Walk](https://zhenyachan.github.io)
+This project is available via this link: [Wildlife Walk](https://zhenyachan.github.io)
